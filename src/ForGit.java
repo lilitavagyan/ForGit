@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class ForGit {
+public class ForGit {
+    public static void main(String[] args) {
+        System.out.println("Hello Narek");
+    }
 }
